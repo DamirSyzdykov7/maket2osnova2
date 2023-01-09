@@ -1,0 +1,106 @@
+@media (max-width: 1360px) {
+    .posshapka {
+        margin-left: 150px;
+    }
+}
+
+@media (max-width:1360px) {
+    .trudno {
+        margin-left: 100px;
+    }
+
+    .text4 {
+        margin-left: 100px;
+    }
+
+    .text5 {
+        margin-left: 100px;
+    }
+
+    .button {
+        margin-left: 100px;
+    }
+
+    .table2 {
+        margin-right: 100px;
+    }
+
+    .pochti {
+        margin-left: 100px;
+    }
+
+    .shapka {
+        margin-right: 400px;
+    }
+    .shapka ul {
+        margin-left: 130px;
+    }
+
+    .wrapper {
+        width: calc(100%-100px);
+    }
+}
+
+@media (max-width: 1200px) {
+    .illustration {
+        margin-right: 40px;
+    }
+
+    .posshapka {
+        margin-left: 50px;
+    }
+
+    .shapka ul {
+       margin-left: 50px;
+    }
+
+    .trudno {
+        margin-right: 150px;
+    }
+
+    .osnova h1 {
+        margin-right: 100px;
+    }
+
+    .text2 {
+        margin-right: 100px;
+    }
+
+    .svg4 {
+        padding-left: 81px;
+        padding-top: 23px;
+        padding-bottom: 23px;
+    }
+    
+    .svg5 {
+        padding-left: 53px;
+        padding-top: 23px;
+        padding-bottom: 23px;
+    }
+    
+    .svg6 {
+        padding-left: 53px;
+        padding-top: 23px;
+        padding-bottom: 23px;
+    }
+    
+    .svg7 {
+        padding-left: 53px;
+        padding-top: 23px;
+        padding-bottom: 23px;
+    }
+
+    .st1 {
+        padding-left: 50px;
+    }
+}
+
+@media (max-width: 992px) {
+    .shapka ul {
+        margin-left: 40px;
+    }
+
+    .login {
+        margin-left: 0px;
+    }
+}
